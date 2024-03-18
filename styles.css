@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Girassol&family=Rubik+Maps&display=swap');
+
+
+
+*{
+    margin: 2;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Girassol", sans-serif;
+    list-style: none;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+body{
+    background: url(Img/qc_racionais.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+    color: red;
+    background-color:black;
+}
+
+h2{
+    text-align: justify;
+    color: white;
+    margin: 0px;
+    background-color: black;
+    opacity: 70%;
+    
+}
+
+.rodape{
+    width: 90px;
+    height: 90px;
+    border-radius: 50px;
+    padding: 10px;
+    margin-left: 300px;
+    margin-top: 300px;
+}
+

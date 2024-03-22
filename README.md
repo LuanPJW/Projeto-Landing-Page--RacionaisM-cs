@@ -4,6 +4,4 @@
 
 ## Este projeto também é um teste para por em pratica todo aprendizado adiquirido até o momento sobre Html, e Css.
 
-## Este projeto também é um teste para por em pratica todo aprendizado adiquirido até o momento sobre Html, e Css.
-
 
